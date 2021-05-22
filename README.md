@@ -4,3 +4,6 @@ This task entails the creation back end for an e-commerce site by modifying star
 
 
 Below is a video walk-through entailing the project.
+
+
+https://youtu.be/V6HPvL4Mi8M
